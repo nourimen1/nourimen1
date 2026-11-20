@@ -1,18 +1,7 @@
-<table>
-  <tr>
-    <td width="180">
-      <img src="./profile.png" width="150" style="border-radius: 50%;" />
-    </td>
-    <td>
-      <h1>Hi, I'm Nour El Imen Darragi 👋</h1>
-      <h3>Computer Engineer | IoT & Intelligent Systems | Tech Innovator</h3>
-      <p>
-        Passionate about Artificial Intelligence, Embedded Systems,
-        IoT and building innovative technology solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+# Hi there, I'm Nour El Imen Darragi 👋
+
+### Computer Engineer | IoT & Intelligent Systems Research Student | Tech Innovator
+
 I'm a technology enthusiast passionate about building intelligent systems, exploring the intersection of hardware and software, and transforming ideas into meaningful solutions.
 
 Currently pursuing a Master's degree in **Intelligent Systems and Internet of Things**, I'm interested in exploring how Artificial Intelligence, Embedded Systems, and emerging technologies can solve real-world problems.
@@ -119,18 +108,3 @@ I'm always open to connecting with researchers, developers, innovators and peopl
 Let's learn, create and innovate together!
 
 **"Think beyond what exists. Build what could exist."**
-
-<!--
-**nourimen1/nourimen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
